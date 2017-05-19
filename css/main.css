@@ -1,0 +1,22 @@
+input {
+	text-align: center;
+}
+#username {
+	text-align:center;
+}
+p { padding-right: 50px;
+	padding-left: 50px;
+	color:white;
+}
+}
+.row {
+	color: yellow;
+	text-align:center;
+}
+.container{
+	padding-top: 60px;
+	text-align:center;
+}
+img {
+	text-align:center;
+}
